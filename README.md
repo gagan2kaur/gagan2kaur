@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **gagan2kaur/gagan2kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Some information about me:
@@ -13,4 +12,3 @@ Some information about me:
 - 📫 How to reach me: gagan.kaur2@gmail.com
 - 😄 My GitHub Portfolio: https://github.com/gagan2kaur
 - ⚡ Fun fact: I love finding bugs.
--->

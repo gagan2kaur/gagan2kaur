@@ -8,7 +8,7 @@ Some information about me:
 - 🌱 I’m currently learning Selenium Automation Testing Tool.
 - 👯 I’m looking to collaborate on Selenium Testing Tool. I am also interested in Database.
 - 🤔 I’m looking for help with Selenium and other automation testing tools.
-- 💬 Ask me about Manual testing and Selenium.
+- 💬 Ask me about Manual testing.
 - 📫 How to reach me: gagan.kaur2@gmail.com
 - 😄 My GitHub Portfolio: https://github.com/gagan2kaur
 - ⚡ Fun fact: I love finding bugs.

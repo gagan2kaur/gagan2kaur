@@ -10,5 +10,5 @@ Some information about me:
 - 🤔 I’m looking for help with Selenium and other automation testing tools.
 - 💬 Ask me about Manual testing.
 - 📫 How to reach me: gagan.kaur2@gmail.com
-- 😄 My GitHub Portfolio: https://gagan2kaur.github.io/MyPortfolio/
+- 😄 My Portfolio: https://gagan2kaur.github.io/MyPortfolio/
 - ⚡ Fun fact: I love finding bugs.

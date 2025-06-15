@@ -13,7 +13,7 @@ A recent graduate in Applied Information Technology from Wintec, passionate abou
 
 
 **Let's connect!**
-- LinkedIn: https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/gagandeep-kaur83/
+- LinkedIn: https://www.linkedin.com/in/gagandeep-kaur83/
 - My Portfolio: https://gagan2kaur.github.io/Portfolio/
 
 

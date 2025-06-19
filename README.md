@@ -7,7 +7,7 @@ A recent graduate in Applied Information Technology from Wintec, passionate abou
 - 🔍 I analyze data to uncover insights and improve decision-making.
 - 🧪 I test web & mobile apps to ensure quality and functionality.
 - 🚀 Skilled in Power BI, Python, SQL, GitHub Actions, Selenium & JIRA.
-- 🌱 Currently learning advanced automation techniques and dashboard storytelling.
+
 
 **Tech Stack:** <br>
 <img src=https://raw.githubusercontent.com/gagan2kaur/Portfolio/refs/heads/main/images/ProgrammingLogos/PowerBILogo1.png width="50"/>
